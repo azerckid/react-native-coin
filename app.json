@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-coin",
+    "slug": "react-native-coin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-coin"
+}
